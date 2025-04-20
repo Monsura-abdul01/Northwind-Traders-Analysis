@@ -25,7 +25,6 @@ This dataset includes detailed records on transactions, product categories, ship
 ### Tools
 
 - **SQL**: Used for data retrieval and data manipulation.
-    - [Download here](www.microsoft.com)
 - **Python**: Used to clean and preprocess the extracted data for deeper analysis.
 - **Power BI**: Utilized for comprehensive data analysis and visualization, enabling the creation of interactive and insightful dashboards that drive business decisions.
 
